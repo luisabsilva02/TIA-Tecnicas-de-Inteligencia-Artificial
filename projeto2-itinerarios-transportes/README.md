@@ -38,8 +38,3 @@ O ficheiro Relatorio_projeto2.pdf contém a explicação detalhada do projeto, i
 Tecnologias utilizadas
 Prolog;
 SWI-Prolog.
-
----
-
-No GitHub, para criares cada um, vai a **Add file → Create new file**, escreve o caminho completo, cola o conteúdo e depois clica em **Commit changes**.
-
