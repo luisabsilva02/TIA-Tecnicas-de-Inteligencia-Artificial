@@ -44,3 +44,17 @@ Abrir o SWI-Prolog nesta pasta e carregar o ficheiro principal:
 
 ```prolog
 [interface].
+
+Depois executar:
+interface.
+
+O sistema irá apresentar as perguntas na consola e, no final, mostrará a recomendação de transporte.
+
+Exemplo de regras
+if viagem_trabalho and urgente then rapido.
+if viagem_trabalho and preco_baixo then final:barato.
+if enjoos then final:confortavel.
+
+Tecnologias utilizadas
+Prolog;
+SWI-Prolog.
